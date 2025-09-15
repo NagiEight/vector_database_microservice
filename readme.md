@@ -36,7 +36,7 @@ docker-compose up
 ```
 
 ---
-🖥️ Web GUI
+## 🖥️ Web GUI
 
 A simple interface for testing and visualizing vector search.
 
