@@ -36,6 +36,22 @@ docker-compose up
 ```
 
 ---
+🖥️ Web GUI
+
+A simple interface for testing and visualizing vector search.
+
+    Access it at: http://localhost:8080/webgui/
+
+    Use it to:
+
+        Add new texts and metadata
+
+        Run semantic search queries
+
+        View search results and metadata
+
+    ⚠️ Best used for debugging, demos, and quick testing. For production, use the API directly.
+---
 
 ## 🔌 API Usage
 
