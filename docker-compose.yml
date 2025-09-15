@@ -1,0 +1,12 @@
+services:
+  vector-service:
+    build: .
+    ports:
+      - "8000:8000"
+      - "8080:8080"
+    volumes:
+      # This volume persists the database data even if the container is removed
+      - db_data:/app/data
+    restart: always
+volumes:
+  db_data:
