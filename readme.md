@@ -22,7 +22,7 @@ A lightweight, file-based Python microservice for storing and searching text emb
 | Embedding Model  | `sentence-transformers/all-MiniLM-L6-v2` |
 | Vector Index     | FAISS (flat index)               |
 | Storage          | Local file-based                 |
-| API Framework    | FastAPI or Flask (assumed)       |
+| API Framework    | FastAPI      |
 | Search Type      | Approximate Nearest Neighbor     |
 
 ---
