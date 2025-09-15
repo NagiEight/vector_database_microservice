@@ -29,7 +29,9 @@ A lightweight, file-based Python microservice for storing and searching text emb
 
 ## 📦 Installation
 
+using docker
 ```bash
+git clone https://github.com/NagiEight/vector_database_microservice.git
 docker-compose up
 ```
 
